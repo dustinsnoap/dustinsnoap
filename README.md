@@ -2,7 +2,7 @@
 
 <div align="center">
     <a href="https://dustinsnoap.com">
-        <img src="https://raw.githubusercontent.com/dustinsnoap/dustinsnoap/master/assets/avatar.png" alt="thats me"/>
+        <img src="https://raw.githubusercontent.com/dustinsnoap/dustinsnoap/master/assets/avatar.png" width="50%" alt="thats me"/>
     </a>
 </div>
 <p align="center">
