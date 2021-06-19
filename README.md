@@ -29,6 +29,9 @@ Developer. Rocket scientist. International spy. By day I develop easy to use app
     <h1 align="center">Awards and Certificates</h1>
 </div>
 <div align="center">
+    <a href="https://www.credly.com/badges/37293d7f-fc88-4fe4-af10-00a499fe5f17?source=linked_in_profile">
+        <img src="https://raw.githubusercontent.com/dustinsnoap/dustinsnoap/master/assets/lambda.png" width="7.5%" alt="Lambda Full-Stack Development"/>
+    </a>
     <img src="https://raw.githubusercontent.com/dustinsnoap/dustinsnoap/master/assets/aws.png" width="7.5%" alt="aws cloud practitioner"/>
     <a href="https://app.codesignal.com/coding-report/FnWe6KCeciqzvEXFr-Fx75CEQ4en52TGxE6xiWuowL/GEZJrudCxZTZ3vQze">
         <img src="https://raw.githubusercontent.com/dustinsnoap/dustinsnoap/master/assets/codesignal.png" width="7.5%" alt="codesignal general coding assessment"/>
