@@ -23,7 +23,6 @@ Developer. Rocket scientist. International spy. By day I develop easy to use app
     <a href="https://www.udemy.com/certificate/UC-E2DUJYFQ/">
         <img src="https://raw.githubusercontent.com/dustinsnoap/dustinsnoap/master/assets/go.png" width="7.5%" alt="go"/>
     </a>
-    <img src="https://raw.githubusercontent.com/dustinsnoap/dustinsnoap/master/assets/go.png" width="7.5%" alt="go"/>
     <img src="https://raw.githubusercontent.com/dustinsnoap/dustinsnoap/master/assets/postgres.png" width="7.5%" alt="postgres"/>
     <img src="https://raw.githubusercontent.com/dustinsnoap/dustinsnoap/master/assets/mongo.png" width="7.5%" alt="mongo"/>
     <img src="https://raw.githubusercontent.com/dustinsnoap/dustinsnoap/master/assets/git.png" width="7.5%" alt="git"/>
