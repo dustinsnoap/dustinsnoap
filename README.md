@@ -12,20 +12,21 @@ Developer. Rocket scientist. International spy. By day I develop easy to use app
     <h1 align="center">Proficiencies</h1>
 </div>
 <div align="center">
-    <img src="https://raw.githubusercontent.com/dustinsnoap/dustinsnoap/master/assets/html.png" width="7.5%" alt="html"/>
-    <img src="https://raw.githubusercontent.com/dustinsnoap/dustinsnoap/master/assets/css.png" width="7.5%" alt="css"/>
-    <img src="https://raw.githubusercontent.com/dustinsnoap/dustinsnoap/master/assets/js.png" width="7.5%" alt="javacript"/>
-    <img src="https://raw.githubusercontent.com/dustinsnoap/dustinsnoap/master/assets/react.png" width="7.5%" alt="react"/>
-    <img src="https://raw.githubusercontent.com/dustinsnoap/dustinsnoap/master/assets/redux.png" width="7.5%" alt="redux"/>
-    <img src="https://raw.githubusercontent.com/dustinsnoap/dustinsnoap/master/assets/vue.png" width="7.5%" alt="vue"/>
-    <img src="https://raw.githubusercontent.com/dustinsnoap/dustinsnoap/master/assets/node.png" width="7.5%" alt="node"/>
-    <img src="https://raw.githubusercontent.com/dustinsnoap/dustinsnoap/master/assets/python.png" width="7.5%" alt="python"/>
+    <img src="https://raw.githubusercontent.com/dustinsnoap/dustinsnoap/master/assets/html.png" width="7%" alt="html"/>
+    <img src="https://raw.githubusercontent.com/dustinsnoap/dustinsnoap/master/assets/css.png" width="7%" alt="css"/>
+    <img src="https://raw.githubusercontent.com/dustinsnoap/dustinsnoap/master/assets/js.png" width="7%" alt="javacript"/>
+    <img src="https://raw.githubusercontent.com/dustinsnoap/dustinsnoap/master/assets/react.png" width="7%" alt="react"/>
+    <img src="https://raw.githubusercontent.com/dustinsnoap/dustinsnoap/master/assets/redux.png" width="7%" alt="redux"/>
+    <img src="https://raw.githubusercontent.com/dustinsnoap/dustinsnoap/master/assets/graphql.png" width="7%" alt="graphql"/>
+    <img src="https://raw.githubusercontent.com/dustinsnoap/dustinsnoap/master/assets/vue.png" width="7%" alt="vue"/>
+    <img src="https://raw.githubusercontent.com/dustinsnoap/dustinsnoap/master/assets/node.png" width="7%" alt="node"/>
+    <img src="https://raw.githubusercontent.com/dustinsnoap/dustinsnoap/master/assets/python.png" width="7%" alt="python"/>
     <a href="https://www.udemy.com/certificate/UC-E2DUJYFQ/">
-        <img src="https://raw.githubusercontent.com/dustinsnoap/dustinsnoap/master/assets/go.png" width="7.5%" alt="go"/>
+        <img src="https://raw.githubusercontent.com/dustinsnoap/dustinsnoap/master/assets/go.png" width="7%" alt="go"/>
     </a>
-    <img src="https://raw.githubusercontent.com/dustinsnoap/dustinsnoap/master/assets/postgres.png" width="7.5%" alt="postgres"/>
-    <img src="https://raw.githubusercontent.com/dustinsnoap/dustinsnoap/master/assets/mongo.png" width="7.5%" alt="mongo"/>
-    <img src="https://raw.githubusercontent.com/dustinsnoap/dustinsnoap/master/assets/git.png" width="7.5%" alt="git"/>
+    <img src="https://raw.githubusercontent.com/dustinsnoap/dustinsnoap/master/assets/postgres.png" width="7%" alt="postgres"/>
+    <img src="https://raw.githubusercontent.com/dustinsnoap/dustinsnoap/master/assets/mongo.png" width="7%" alt="mongo"/>
+    <img src="https://raw.githubusercontent.com/dustinsnoap/dustinsnoap/master/assets/git.png" width="7%" alt="git"/>
 </div>
 <div align="center">
     <h1 align="center">Awards and Certificates</h1>
